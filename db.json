@@ -1,1 +1,5 @@
-{}
+{
+  "ADMIRAL IA": { relation: "ally"},
+  "astra": {relation: "ally"},
+  "EG888": {relation: "ally"}
+}
