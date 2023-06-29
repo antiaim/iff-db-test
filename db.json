@@ -1,6 +1,6 @@
 {
   "clan": {
-    "hl": { "relation": "ally" },
+    "hl": { "relation": "ally" }
   },  
   "player": {
     "Admiral IA": { "clan": "hl" },
@@ -8,7 +8,7 @@
     "EG888": { "clan": "hl" },  
     "Arco": { "clan": "hl" }, 
     "Epig": { "clan": "hl" }, 
-    "MITO": { "clan": "hl" }
+    "MITO": { "clan": "hl" },
     "Retyf": { "clan": "hl" },
     "Xendy": { "clan": "hl" }, 
     "thiago1255": { "clan": "hl" },    
