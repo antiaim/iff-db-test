@@ -1,6 +1,19 @@
 {
-  "Admiral IA": { "relation": "ally" },
-  "astra": { "relation": "ally" },
-  "EG888": { "relation": "ally" }
+  "clan": {
+    "hl": { "relation": "ally" },
+  },  
+  "player": {
+    "Admiral IA": { "clan": "hl" },
+    "astra": { "clan": "hl" },
+    "EG888": { "clan": "hl" },  
+    "Arco": { "clan": "hl" }, 
+    "Epig": { "clan": "hl" }, 
+    "MITO": { "clan": "hl" }
+    "Retyf": { "clan": "hl" },
+    "Xendy": { "clan": "hl" }, 
+    "thiago1255": { "clan": "hl" },    
+    "A01c76": { "clan": "hl" },
+    "bruhmemegang": { "clan": "hl" }
+  }
 }
  
