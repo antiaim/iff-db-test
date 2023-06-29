@@ -1,6 +1,8 @@
 {
   "clan": {
-    "hl": { "relation": "ally" }
+    "hl": { "relation": "ally" }, 
+    "beer": { "relation": "neutral" }, 
+    "cougar": { "relation": "enemy" }
   },  
   "player": {
     "Admiral IA": { "clan": "hl" },
@@ -13,7 +15,8 @@
     "Xendy": { "clan": "hl" }, 
     "thiago1255": { "clan": "hl" },    
     "A01c76": { "clan": "hl" },
-    "bruhmemegang": { "clan": "hl" }
+    "bruhmemegang": { "clan": "hl" }, 
+    "Danerid": { "clan": "hl" }
   }
 }
  
