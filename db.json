@@ -2,7 +2,8 @@
   "clan": {
     "hl": { "relation": "ally" }, 
     "beer": { "relation": "neutral" }, 
-    "cougar": { "relation": "enemy" }
+    "cougar": { "relation": "enemy" },
+    "crown": { "relation": "enemy" }
   },  
   "player": {
     "Admiral IA": { "clan": "hl" },
@@ -18,7 +19,8 @@
     "bruhmemegang": { "clan": "hl" }, 
     "Danerid": { "clan": "hl" }, 
     "Mirnyi": { "clan": "cougar" }, 
-    "SkySea": { "clan": "cougar" }
+    "SkySea": { "clan": "cougar" },
+    "Archangel": { "clan": "crown" }
   }
 }
  
